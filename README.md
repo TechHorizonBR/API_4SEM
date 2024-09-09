@@ -1,3 +1,4 @@
+
 # API_4SEM
 
 <div align=center>
@@ -38,3 +39,72 @@ Lucas Lima|Developer|<a href="https://github.com/SuieverSide"><img src="https://
 Luis Guimarães | Scrum Master | <a href="https://github.com/LuisPGuimaraes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white5" alt="GitHub"></a><a href="https://www.linkedin.com/in/luis-guimar%C3%A3es-99865b1b8"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |<img src="https://avatars.githubusercontent.com/u/127263371?v=4" width="60"> |
 Raul Neto| Product Owner | <a href="https://github.com/raulnt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/raul-neto-b51b24157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |<img src="https://avatars.githubusercontent.com/u/127263427?v=4" width="60">|
 Vitória Brancatti|Developer|<a href="https://github.com/vitoriabrancatti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/vitoriabrancatti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |<img src="https://avatars.githubusercontent.com/u/102263593?v=4" width="60">|
+
+## Requisitos Funcionais
+
+<details>
+     
+<summary>Clique aqui</summary>
+
+Itens | Identificação Backlog
+-- |-- |
+
+
+
+
+</details>
+
+## Requisitos Não Funcionais
+
+<details>
+     
+<summary>Clique aqui</summary>
+
+Itens | Identificação Backlog
+-- |-- |
+
+
+
+
+</details>
+
+
+
+<span id="backlog">
+     
+## Product Backlog 🔍
+
+
+
+ID da História |Epico | User stories | Prioridade | Sprint | Status
+--- | --- | --- | --- | --- | --- |
+
+
+
+
+
+<span id="cronograma">
+
+## Cronograma de Entregas 🗓️
+
+Sprint| Início| Entrega  
+--- | --- | ---
+Kick off do projeto| 11/03/2024| 15/03/2024 
+Sprint 1| 25/03/2024| 14/04/2024 
+Sprint 2| 15/04/2024| 05/05/2024 
+Sprint 3| 06/05/2024| 26/05/2024 
+Sprint 4| 27/05/2024| 16/06/2024 
+Feira de Soluções| 27/06/2024| 27/06/2024 
+
+
+## Resumo de Sprints
+
+<details>
+     
+<summary>Sprint 1</summary>
+
+
+
+<details>
+
+
