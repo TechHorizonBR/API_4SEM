@@ -76,8 +76,8 @@ Itens | Identificação Backlog
 
 
 
-ID da História |Epico | User stories | Prioridade | Sprint | Status
---- | --- | --- | --- | --- | --- |
+|Epico | User stories | Prioridade | Sprint | Status
+--- | --- | --- | --- | --- |
 
 
 
