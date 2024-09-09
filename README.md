@@ -89,12 +89,12 @@ ID da História |Epico | User stories | Prioridade | Sprint | Status
 
 Sprint| Início| Entrega  
 --- | --- | ---
-Kick off do projeto| 29/08/2024| ----------
+Kick off do projeto| 29/08/2024| -------------
 Sprint 1| 09/09/2024| 29/09/2024 
 Sprint 2| 30/09/2024| 20/10/2024 
 Sprint 3| 21/10/2024| 10/11/2024 
 Sprint 4| 11/11/2024| 01/12/2024 
-Feira de Soluções| 12/12/2024| ----------
+Feira de Soluções| 12/12/2024| -------------
 
 
 ## Resumo de Sprints
