@@ -81,9 +81,9 @@ Itens | Identificação Backlog
 Registro de Dados| Como usuário, preciso que o sistema registre os dados disponibilizados pelo cliente para utilização do sistema.| 1| 1| ❌|
 Visualização de Trajetória no Mapa| Como usuário, preciso que o sistema crie uma trajetória visual no mapa para que eu possa visualizar o caminho realizado pelo objeto.| 2| 1| ❌|
 Filtros | Como usuário, preciso que o sistema disponibilize filtros para a pesquisa de dispositivos. | 3| 1| ❌| 
-Atualização de Dados em Tempos Real| Como usuário, preciso que o sistema atualize em tempo real a localização do dispositivo, afim de localizar o lugar exato em que o objeto se encontra naquele momento; | 4| 2| ❌|
+Atualização de Dados em Tempo Real| Como usuário, preciso que o sistema atualize em tempo real a localização do dispositivo, afim de localizar o lugar exato em que o objeto se encontra naquele momento; | 4| 2| ❌|
 Demarcação de Espaço | Como usuário, preciso que que seja possível delimitar locais para criar alertas caso o dispositivo saia da área definida.| 5| 2| ❌|
-Demarcação de Espaço | Como usuário, preciso que o sistema crie alertas quando o objeto se deslocar do espaço demarcado, afim de gerenciar a deslocação do objeto. | 6| 2| ❌|
+Demarcação de Espaço | Como usuário, preciso que o sistema crie alertas quando o objeto se deslocar do espaço demarcado, afim de gerenciar a deslocação do objeto. | 6| 3| ❌|
 Histórico de Localizações| Como usuário, preciso rastrear o histórico de localização de um dispositivo especifico para identificar sua trajetória. | 7| 3| ❌|
 Gestão de Usuários Administradores| Como usuário adm, desejo registrar novos usuários no sistema, afim de conceder acesso aos registros de localização. | 8| 4| ❌|
 Autenticação | Como usuário, preciso que o sistema faça autenticação do usuário para que ele possa navegar no sistema. | 9| 4| ❌|
