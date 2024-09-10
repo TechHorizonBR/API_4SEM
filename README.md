@@ -5,7 +5,7 @@
      <a href="#sobre">Sobre |</a>
      <a href="#equipe">Contribuidores |</a>
      <a href="#backlog">Product Backlog |</a>
-     <a href="#cronograma">Cronograma de Entregas |</a>
+     <a href="#cronograma">Cronograma de Entregas </a>
 
 </div>
 
@@ -44,8 +44,8 @@ Vitória Brancatti|Developer|<a href="https://github.com/vitoriabrancatti"><img 
      
 <summary>Clique aqui</summary>
 
-Itens | Identificação Backlog
--- |-- |
+Itens |
+-- |
 
 
 
@@ -58,8 +58,8 @@ Itens | Identificação Backlog
      
 <summary>Clique aqui</summary>
 
-Itens | Identificação Backlog
--- |-- |
+Itens |
+-- |
 
 
 
