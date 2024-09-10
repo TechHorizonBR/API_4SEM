@@ -1,5 +1,5 @@
 
-# API_4SEM
+# LocalTracker
 
 <div align=center>
      <a href="#sobre">Sobre |</a>
@@ -16,7 +16,7 @@
 
   ## Sobre 
 
-  <p align="left">A ITO1 é uma empresa voltada para dados. Utilizamos IOTs para coletar informações de diferentes ambientes e com isso inovar nas soluções e produtos dos nossos clientes. Quando falamos sobre o volume de dados gerados por IoTs para geolocalização de pessoas e objetos, estamos falando de grandes quantidades de dados que precisam ser gerenciados de maneira eficiente. O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de pessoas, ativos e outros objetos em banco de dados NOSQL escalável e de alta disponibilidade. <br>
+  <p align="left">A ITO1 é uma empresa voltada para dados. Utilizamos IOTs para coletar informações de diferentes ambientes e com isso inovar nas soluções. Quando falamos sobre o volume de dados gerados por IoTs para geolocalização de pessoas e objetos, estamos falando de grandes quantidades de dados que precisam ser gerenciados de maneira eficiente. O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de dispositivos, ativos e outros objetos em banco de dados NOSQL escalável e de alta disponibilidade. <br>
 
 > Coleta de dados e;
 
@@ -78,9 +78,15 @@ Itens | Identificação Backlog
 
 |Epico | User stories | Prioridade | Sprint | Status
 --- | --- | --- | --- | --- |
-
-
-
+Registro de Dados| Como usuário, preciso que o sistema registre os dados disponibilizados pelo cliente para utilização do sistema.| 1| 1| ❌|
+Visualização de Trajetória no Mapa| Como usuário, preciso que o sistema crie uma trajetória visual no mapa para que eu possa visualizar o caminho realizado pelo objeto.| 2| 1| ❌|
+Filtros | Como usuário, preciso que o sistema disponibilize filtros para a pesquisa de dispositivos. | 3| 1| ❌| 
+Atualização de Dados em Tempos Real| Como usuário, preciso que o sistema atualize em tempo real a localização do dispositivo, afim de localizar o lugar exato em que o objeto se encontra naquele momento; | 4| 2| ❌|
+Demarcação de Espaço | Como usuário, preciso que que seja possível delimitar locais para criar alertas caso o dispositivo saia da área definida.| 5| 2| ❌|
+Demarcação de Espaço | Como usuário, preciso que o sistema crie alertas quando o objeto se deslocar do espaço demarcado, afim de gerenciar a deslocação do objeto. | 6| 2| ❌|
+Histórico de Localizações| Como usuário, preciso rastrear o histórico de localização de um dispositivo especifico para identificar sua trajetória. | 7| 3| ❌|
+Gestão de Usuários Administradores| Como usuário adm, desejo registrar novos usuários no sistema, afim de conceder acesso aos registros de localização. | 8| 4| ❌|
+Autenticação | Como usuário, preciso que o sistema faça autenticação do usuário para que ele possa navegar no sistema. | 9| 4| ❌|
 
 
 <span id="cronograma">
