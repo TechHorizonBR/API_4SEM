@@ -16,9 +16,9 @@
 
   <p align="left">A ITO1 é uma empresa voltada para dados. Utilizamos IOTs para coletar informações de diferentes ambientes e com isso inovar nas soluções. Quando falamos sobre o volume de dados gerados por IoTs para geolocalização de pessoas e objetos, estamos falando de grandes quantidades de dados que precisam ser gerenciados de maneira eficiente. O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de dispositivos, ativos e outros objetos em banco de dados NOSQL escalável e de alta disponibilidade. <br>
 
-> Coleta de dados e;
+> Coleta de Dados e;
 
-> Protocolos de comunicação;
+> Protocolos de Comunicação;
 
 
 <span id="equipe"> 
@@ -45,9 +45,15 @@ Vitória Brancatti|Developer|<a href="https://github.com/vitoriabrancatti"><img 
 
 Itens |
 -- |
-
-
-
+Registro de Dados: O sistema deve registrar os dados do cliente.|
+Visualização do Device no Mapa: O sistema deve criar um marcador visual no mapa para o dispositivo.|
+Filtro: O sistema deve disponibilizar um filtro para busca de dispositivos.|
+Atualização de Dados em Tempo Real: O sistema deve atualizar em tempo real a localização de dispositivos.|
+Demarcação de Espaço: O sistema deve permitir delimitar locais para alertas quando um dispositivo sair de uma área definida.| 
+Demarcação de Espaço: O sistema deve criar alertas quando o objeto se deslocar do espaço demarcado.|
+Histórico de Localizações: O sistema deve rastrear e exibir o histórico de localização de um dispositivo específico.|
+Gestão de Usuários Administradores: O sistema deve permitir registrar novos usuários.|
+Autenticação: O sistema deve fazer a autenticação de usuários.|
 
 </details>
 
@@ -59,13 +65,11 @@ Itens |
 
 Itens |
 -- |
-
-
-
+Desempenho: A atualização de dados deve acontecer em tempo real com baixa latência.|
+Escalabilidade: O sistema deve ser capaz de lidar com um grande número de dispositivos simultaneamente.|
+Usabilidade: O sistema deve ser intuitivo para o administrador e o usuário.
 
 </details>
-
-
 
 <span id="backlog">
      
