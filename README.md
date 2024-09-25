@@ -110,11 +110,11 @@ Feira de Soluções| 12/12/2024| -------------
      
 <summary>Sprint 1</summary>
 
-<details>
+</details>
 
 <span id="tecnologias">
 
 ## Tecnologias Utilizadas 💻
-![Readme TechHorizon 2S](https://github.com/user-attachments/assets/6dad342d-3ae7-482f-b1c3-d41ed83a2dad)
 
+![Readme TechHorizon 2S](https://github.com/user-attachments/assets/d99cb2d7-670a-489f-9c6c-56fa97a3379d)
 
