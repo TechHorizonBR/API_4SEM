@@ -18,7 +18,7 @@
 
 > Coleta de Dados e;
 
-> Protocolos de Comunicação;
+> Protocolos de Comunicações;
 
 
 <span id="equipe"> 
