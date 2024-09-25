@@ -14,7 +14,7 @@
 
   ## Sobre 
 
-  <p align="left">A ITO1 é uma empresa voltada para dados. Utilizamos IOTs para coletar informações de diferentes ambientes e com isso inovar nas soluções. Quando falamos sobre o volume de dados gerados por IoTs para geolocalização de pessoas e objetos, estamos falando de grandes quantidades de dados que precisam ser gerenciados de maneira eficiente. O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de dispositivos, ativos e outros objetos em banco de dados NOSQL escalável e de alta disponibilidade. <br>
+  <p align="left">A ITO1 é uma empresa voltada para dados. Utilizamos IOTs para coletar informações de diferentes ambientes e com isso inovar nas soluções. Quando falamos sobre o volume de dados gerados por IoTs para geolocalização de pessoas e objetos, estamos falando de grandes quantidades de dados que precisam ser gerenciados de maneira eficiente. O desafio, portanto, é criar uma solução para registro e consulta de geolocalização de dispositivos, ativos e outros objetos em banco de dados relacional escalável e de alta disponibilidade. <br>
 
 > Coleta de Dados e;
 
