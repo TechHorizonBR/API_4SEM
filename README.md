@@ -5,8 +5,8 @@
      <a href="#sobre">Sobre |</a>
      <a href="#equipe">Contribuidores |</a>
      <a href="#backlog">Product Backlog |</a>
-     <a href="#cronograma">Cronograma de Entregas </a>
-
+     <a href="#cronograma">Cronograma de Entregas |</a>
+     <a href="#tecnologias">Tecnologias</a>
 </div>
 
 
@@ -110,8 +110,11 @@ Feira de Soluções| 12/12/2024| -------------
      
 <summary>Sprint 1</summary>
 
-
-
 <details>
+
+<span id="tecnologias">
+
+## Tecnologias Utilizadas 💻
+![Readme TechHorizon 2S](https://github.com/user-attachments/assets/6dad342d-3ae7-482f-b1c3-d41ed83a2dad)
 
 
