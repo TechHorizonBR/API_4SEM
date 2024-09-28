@@ -6,6 +6,7 @@
      <a href="#equipe">Contribuidores |</a>
      <a href="#backlog">Product Backlog |</a>
      <a href="#cronograma">Cronograma de Entregas |</a>
+     <a href="#burndown">Gráfico de Burndown |</a>
      <a href="#tecnologias">Tecnologias</a>
 </div>
 
@@ -81,9 +82,9 @@ Usabilidade: O sistema deve ser intuitivo para o administrador e o usuário.
 
 |Epico | User stories | Prioridade | Sprint | Status
 --- | --- | --- | --- | --- |
-Registro de Dados| Como usuário, preciso que o sistema registre os dados disponibilizados pelo cliente para utilização do sistema.| 1| 1| 🔧|
-Visualização do Device no Mapa| Como usuário, preciso que o sistema crie um pim visual no mapa, para que possa visualizar o dispositivo.| 2| 1| 🔧|
-Filtro | Como usuário, preciso que o sistema disponibilize o filtro para a pesquisa de dispositivo. | 3| 1| 🔧| 
+Registro de Dados| Como usuário, preciso que o sistema registre os dados disponibilizados pelo cliente para utilização do sistema.| 1| 1| ✅|
+Visualização do Device no Mapa| Como usuário, preciso que o sistema crie um pim visual no mapa, para que possa visualizar o dispositivo.| 2| 1| ✅|
+Filtro | Como usuário, preciso que o sistema disponibilize o filtro para a pesquisa de dispositivo. | 3| 1| ✅| 
 Atualização de Dados em Tempo Real| Como usuário, preciso que o sistema atualize em tempo real a localização do dispositivo, afim de localizar o lugar exato em que o objeto se encontra naquele momento; | 4| 2| ❌|
 Demarcação de Espaço | Como usuário, preciso que que seja possível delimitar locais para criar alertas caso o dispositivo saia da área definida.| 5| 2| ❌|
 Demarcação de Espaço | Como usuário, preciso que o sistema crie alertas quando o objeto se deslocar do espaço demarcado, afim de gerenciar a deslocação do objeto. | 6| 3| ❌|
@@ -106,11 +107,24 @@ Sprint 4| 11/11/2024| 01/12/2024
 Feira de Soluções| 12/12/2024| -------------
 
 
-## Resumo de Sprints
+## Resumo de Sprints 📋
 
 <details>
      
 <summary>Sprint 1</summary>
+
+</details>
+
+<span id="burndown">
+
+## Burndown 🔥
+
+<details>
+     
+<summary>Sprint 1</summary>
+
+![image](https://github.com/TechHorizonBR/API_3SEM/assets/123211025/056cb59d-10c8-476f-bf0a-74d50d526265)
+
 
 </details>
 
