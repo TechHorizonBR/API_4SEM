@@ -113,6 +113,14 @@ Feira de Soluções| 12/12/2024| -------------
      
 <summary>Sprint 1</summary>
 
+Nessa primeira Sprint, o desenvolvimento teve foco no Registro de Dados, Visualização do Device no Mapa e implementação de Filtros Básicos, como: Usuário e Device. As funcionalidades entregues incluem:
+- Registro dos dados disponibilizados pelo cliente, assegurando que o sistema capture e armazene as informações corretamente.
+- Criação de um pin visual no mapa para a visualização de dispositivos, melhorando a usabilidade e interatividade do sistema.
+- Disponibilização de um filtro funcional para facilitar a pesquisa e localização de dispositivos.
+
+
+Essas entregas garantem uma base sólida para o processamento e a visualização dos dispositivos, oferecendo funcionalidades essenciais para a interação com os dados do cliente.
+
 </details>
 
 <span id="burndown">
