@@ -137,5 +137,5 @@ Essas entregas garantem uma base sólida para o processamento e a visualização
 
 ## Tecnologias Utilizadas 💻
 
-![Readme TechHorizon 2S](https://github.com/user-attachments/assets/d99cb2d7-670a-489f-9c6c-56fa97a3379d)
+![Readme TechHorizon 2S (1)](https://github.com/user-attachments/assets/026ce93a-521a-4d18-bd72-d8ee624aa1f7)
 
