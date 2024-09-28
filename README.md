@@ -131,9 +131,6 @@ Essas entregas garantem uma base sólida para o processamento e a visualização
      
 <summary>Sprint 1</summary>
 
-![image](https://github.com/TechHorizonBR/API_3SEM/assets/123211025/056cb59d-10c8-476f-bf0a-74d50d526265)
-
-
 </details>
 
 <span id="tecnologias">
