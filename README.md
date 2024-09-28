@@ -83,7 +83,7 @@ Usabilidade: O sistema deve ser intuitivo para o administrador e o usuário.
 |Epico | User stories | Prioridade | Sprint | Status
 --- | --- | --- | --- | --- |
 Registro de Dados| Como usuário, preciso que o sistema registre os dados disponibilizados pelo cliente para utilização do sistema.| 1| 1| ✅|
-Visualização do Device no Mapa| Como usuário, preciso que o sistema crie um pim visual no mapa, para que possa visualizar o dispositivo.| 2| 1| ✅|
+Visualização do Device no Mapa| Como usuário, preciso que o sistema crie um pin visual no mapa, para que possa visualizar o dispositivo.| 2| 1| ✅|
 Filtro | Como usuário, preciso que o sistema disponibilize o filtro para a pesquisa de dispositivo. | 3| 1| ✅| 
 Atualização de Dados em Tempo Real| Como usuário, preciso que o sistema atualize em tempo real a localização do dispositivo, afim de localizar o lugar exato em que o objeto se encontra naquele momento; | 4| 2| ❌|
 Demarcação de Espaço | Como usuário, preciso que que seja possível delimitar locais para criar alertas caso o dispositivo saia da área definida.| 5| 2| ❌|
