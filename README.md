@@ -133,9 +133,14 @@ Essas entregas garantem uma base sólida para o processamento e a visualização
 
 </details>
 
+<span id="docs">
+
+## Documentação 📜
+
+- Documentação completa do sistema: <a href="https://github.com/user-attachments/files/17181754/Documentacao.LocalTracker.-.Tech.Horizon.pdf">Clique aqui</a>
+
 <span id="tecnologias">
 
 ## Tecnologias Utilizadas 💻
 
 ![Readme TechHorizon 2S (1)](https://github.com/user-attachments/assets/026ce93a-521a-4d18-bd72-d8ee624aa1f7)
-
