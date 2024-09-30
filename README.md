@@ -131,6 +131,8 @@ Essas entregas garantem uma base sólida para o processamento e a visualização
      
 <summary>Sprint 1</summary>
 
+<img src="https://github.com/user-attachments/assets/2e319293-90e7-4de4-a9a1-654c521457c3" width="750" />
+
 </details>
 
 <span id="docs">
