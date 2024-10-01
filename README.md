@@ -82,15 +82,19 @@ Usabilidade: O sistema deve ser intuitivo para o administrador e o usuário.
 
 |Epico | User stories | Prioridade | Sprint | Status
 --- | --- | --- | --- | --- |
-Registro de Dados| Como usuário, preciso que o sistema registre os dados disponibilizados pelo cliente para utilização do sistema.| 1| 1| ✅|
-Visualização do Device no Mapa| Como usuário, preciso que o sistema crie um pin visual no mapa, para que possa visualizar o dispositivo.| 2| 1| ✅|
-Filtro | Como usuário, preciso que o sistema disponibilize o filtro para a pesquisa de dispositivo. | 3| 1| ✅| 
-Atualização de Dados em Tempo Real| Como usuário, preciso que o sistema atualize em tempo real a localização do dispositivo, afim de localizar o lugar exato em que o objeto se encontra naquele momento; | 4| 2| ❌|
-Demarcação de Espaço | Como usuário, preciso que que seja possível delimitar locais para criar alertas caso o dispositivo saia da área definida.| 5| 2| ❌|
-Demarcação de Espaço | Como usuário, preciso que o sistema crie alertas quando o objeto se deslocar do espaço demarcado, afim de gerenciar a deslocação do objeto. | 6| 3| ❌|
-Histórico de Localizações| Como usuário, preciso rastrear o histórico de localização de um dispositivo especifico para identificar sua trajetória. | 7| 3| ❌|
-Gestão de Usuários Administradores| Como usuário adm, desejo registrar novos usuários no sistema, afim de conceder acesso aos registros de localização. | 8| 4| ❌|
-Autenticação | Como usuário, preciso que o sistema faça autenticação do usuário para que ele possa navegar no sistema. | 9| 4| ❌|
+Registro de Dados| Como um usuário, eu desejo que o sistema registre os dados fornecidos pelo cliente, para que esses dados possam ser utilizados nas funcionalidades do sistema, garantindo a rastreabilidade e integridade da informação.| 1| 1| ✅|
+Visualização do Device no Mapa| Como um usuário, eu desejo visualizar a localização do dispositivo em um mapa com um pin, para que eu possa acompanhar sua posição de deslocamento.| 2| 1| ✅|
+Filtro | Como um usuário, eu desejo utilizar um filtro para pesquisar dispositivos específicos, para que eu possa localizar rapidamente o dispositivo desejado entre muitos.| 3| 1| ✅| 
+Filtro| Como um usuário, eu desejo filtrar registros de localização do dispositivo por um intervalo de datas, para que eu possa analisar as movimentações em períodos específicos.| 4| 2| 🔧|
+Filtro| Como um usuário, eu desejo ter a opção de filtrar registros por períodos predefinidos, para que eu possa obter dados de forma rápida e eficiente sem precisar selecionar datas manualmente. | 5| 2| 🔧|
+Visualização do Device no Mapa| Como um usuário, eu desejo que o sistema destaque os pontos de parada do dispositivo no mapa, para que eu possa identificar rapidamente os momentos de repouso.| 6| 2| 🔧|
+Visualização do Device no Mapa| Como um usuário, eu desejo visualizar a rota de deslocamento do dispositivo no mapa, para que eu possa entender seu percurso e a eficiência de suas movimentações. | 7| 2| 🔧|
+Demarcação de Espaço | Como um usuário, eu desejo delimitar áreas específicas no mapa, para que eu possa criar alertas caso o dispositivo saia dessas áreas.| 8| 3| ❌|
+Demarcação de Espaço | Como um usuário, eu desejo receber alertas quando o dispositivo se deslocar para fora da área demarcada, para que eu possa tomar ações corretivas rapidamente. | 9| 3| ❌|
+Histórico de Localizações| Como um usuário, eu desejo acessar o histórico de localização de um dispositivo específico, para que eu possa identificar sua trajetória ao longo do tempo e realizar análises de movimentação. | 10| 3| ❌|
+Gestão de Usuários e Devices| Como um administrador, eu desejo ter a capacidade de modificar, adicionar e remover dispositivos e usuários, para que eu possa manter o sistema organizado e atualizado.| 11| 4| ❌|
+Gestão de Usuários Administradores| Como um administrador, eu desejo registrar novos usuários no sistema, para que eu possa conceder acesso às funcionalidades do sistema de forma controlada.| 12| 4| ⁉️|
+Autenticação | Como um usuário, eu desejo que o sistema realize a autenticação do usuário, para que apenas usuários autorizados possam acessar as funcionalidades do sistema.| 12| 4| ⁉️|
 
 
 <span id="cronograma">
