@@ -94,7 +94,7 @@ Demarcação de Espaço | Como um usuário, eu desejo receber alertas quando o d
 Histórico de Localizações| Como um usuário, eu desejo acessar o histórico de localização de um dispositivo específico, para que eu possa identificar sua trajetória ao longo do tempo e realizar análises de movimentação. | 10| 3| ❌|
 Gestão de Usuários e Devices| Como um administrador, eu desejo ter a capacidade de modificar, adicionar e remover dispositivos e usuários, para que eu possa manter o sistema organizado e atualizado.| 11| 4| ❌|
 Gestão de Usuários Administradores| Como um administrador, eu desejo registrar novos usuários no sistema, para que eu possa conceder acesso às funcionalidades do sistema de forma controlada.| 12| 4| ⁉️|
-Autenticação | Como um usuário, eu desejo que o sistema realize a autenticação do usuário, para que apenas usuários autorizados possam acessar as funcionalidades do sistema.| 12| 4| ⁉️|
+Autenticação | Como um usuário, eu desejo que o sistema realize a autenticação do usuário, para que apenas usuários autorizados possam acessar as funcionalidades do sistema.| 13| 4| ⁉️|
 
 
 <span id="cronograma">
