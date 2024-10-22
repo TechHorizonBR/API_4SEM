@@ -1,8 +1,6 @@
-[submodule "API_4SEM_BACK"]
-	path = API_4SEM_BACK
+[submodule "submodulos/API_4SEM_BACK"]
+	path = submodulos/API_4SEM_BACK
 	url = https://github.com/TechHorizonBR/API_4SEM_BACK.git
-	branch = main
-[submodule "API_4SEM_FRONT"]
-	path = API_4SEM_FRONT
+[submodule "submodulos/API_4SEM_FRONT"]
+	path = submodulos/API_4SEM_FRONT
 	url = https://github.com/TechHorizonBR/API_4SEM_FRONT.git
-	branch = main
