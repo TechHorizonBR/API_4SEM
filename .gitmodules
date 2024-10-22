@@ -1,0 +1,4 @@
+[submodule "submodulos/API_4SEM_BACK"]
+	path = submodulos/API_4SEM_BACK
+	url = https://github.com/TechHorizonBR/API_4SEM_BACK.git
+	branch = main
