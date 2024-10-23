@@ -2,6 +2,8 @@
 ![_LOCAL TRACKER](https://github.com/user-attachments/assets/54943760-4003-44e1-a4aa-a9bb536bf6bc)
 
 <div align=center>
+     <a href="https://github.com/TechHorizonBR/API_4SEM_FRONT.git">Front-end |</a>
+     <a href="https://github.com/TechHorizonBR/API_4SEM_BACK.git">Back-end |</a>
      <a href="#sobre">Sobre |</a>
      <a href="#equipe">Contribuidores |</a>
      <a href="#backlog">Product Backlog |</a>
