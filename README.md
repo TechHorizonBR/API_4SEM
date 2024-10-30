@@ -51,7 +51,6 @@ Itens |
 Registro de Dados: O sistema deve registrar os dados do cliente.|
 Visualização do Device no Mapa: O sistema deve criar um marcador visual no mapa para o dispositivo.|
 Filtro: O sistema deve disponibilizar um filtro para busca de dispositivos.|
-Atualização de Dados em Tempo Real: O sistema deve atualizar em tempo real a localização de dispositivos.|
 Demarcação de Espaço: O sistema deve permitir delimitar locais para alertas quando um dispositivo sair de uma área definida.| 
 Demarcação de Espaço: O sistema deve criar alertas quando o objeto se deslocar do espaço demarcado.|
 Histórico de Localizações: O sistema deve rastrear e exibir o histórico de localização de um dispositivo específico.|
@@ -68,7 +67,6 @@ Autenticação: O sistema deve fazer a autenticação de usuários.|
 
 Itens |
 -- |
-Desempenho: A atualização de dados deve acontecer em tempo real com baixa latência.|
 Escalabilidade: O sistema deve ser capaz de lidar com um grande número de dispositivos simultaneamente.|
 Usabilidade: O sistema deve ser intuitivo para o administrador e o usuário.
 
@@ -141,6 +139,12 @@ Essas melhorias ajudam os usuários a entender melhor o comportamento dos dispos
 
 </details>
 
+<details>
+
+<summary>Sprint 3</summary>
+
+</details>
+
 <span id="burndown">
 
 ## Burndown 🔥
@@ -159,6 +163,12 @@ Essas melhorias ajudam os usuários a entender melhor o comportamento dos dispos
 
 ![WhatsApp Image 2024-10-19 at 14 38 16](https://github.com/user-attachments/assets/aff43a9b-fff2-430c-9eee-2efbb0c6111d)
 
+</details>
+
+<details>
+
+<summary>Sprint 3</summary>
+     
 </details>
 
 <span id="docs">
