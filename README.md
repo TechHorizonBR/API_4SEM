@@ -9,6 +9,7 @@
      <a href="#backlog">Product Backlog |</a>
      <a href="#cronograma">Cronograma de Entregas |</a>
      <a href="#burndown">Gráfico de Burndown |</a>
+     <a href="#docs">Documentação |</a> 
      <a href="#tecnologias">Tecnologias</a>
 </div>
 
