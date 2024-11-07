@@ -90,7 +90,7 @@ Visualização do Device no Mapa| Como um usuário, eu desejo que o sistema dest
 Visualização do Device no Mapa| Como um usuário, eu desejo visualizar a rota de deslocamento do dispositivo no mapa, para que eu possa entender seu percurso e a eficiência de suas movimentações. | 7| 2| ✅|
 Demarcação de Espaço | Como um usuário, eu desejo delimitar áreas específicas no mapa, para que eu possa criar alertas caso o dispositivo saia dessas áreas.| 8| 3| 🔧|
 Histórico de Localizações| Como um usuário, eu desejo acessar o histórico de localização de um dispositivo específico, para que eu possa identificar sua trajetória ao longo do tempo e realizar análises de movimentação. | 9| 3| 🔧|
-Demarcação de Espaço | Como um usuário, eu desejo receber alertas quando o dispositivo se deslocar para fora da área demarcada, para que eu possa tomar ações corretivas rapidamente. | 10| 3~4| ⚠️|
+Alerta Demarcação de Espaço | Como um usuário, eu desejo receber alertas quando o dispositivo se deslocar para fora da área demarcada, para que eu possa tomar ações corretivas rapidamente. | 10| 3~4| ⚠️|
 Gestão de Usuários e Devices| Como um administrador, eu desejo ter a capacidade de modificar, adicionar e remover dispositivos e usuários, para que eu possa manter o sistema organizado e atualizado.| 11| 4| ❌|
 Gestão de Usuários Administradores| Como um administrador, eu desejo registrar novos usuários no sistema, para que eu possa conceder acesso às funcionalidades do sistema de forma controlada.| 12| 4| ❌|
 Autenticação | Como um usuário, eu desejo que o sistema realize a autenticação do usuário, para que apenas usuários autorizados possam acessar as funcionalidades do sistema.| 13| 4| ❌|
