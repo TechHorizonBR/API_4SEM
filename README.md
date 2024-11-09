@@ -143,6 +143,13 @@ Essas melhorias ajudam os usuários a entender melhor o comportamento dos dispos
 <details>
 
 <summary>Sprint 3</summary>
+Nesta terceira Sprint, focamos em ampliar o controle e a análise de movimentação dos dispositivos.
+
+- Implementamos a funcionalidade de delimitação de áreas no mapa.
+
+- Adicionamos o acesso ao histórico de localização dos dispositivos, facilitando a identificação de trajetórias e a análise detalhada de movimentações ao longo do tempo
+
+Essas melhorias proporcionam aos usuários um monitoramento mais preciso e ágil, aprimorando a capacidade de resposta e a análise dos padrões de deslocamento.
 
 </details>
 
