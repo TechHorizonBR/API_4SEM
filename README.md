@@ -176,7 +176,7 @@ Essas melhorias ajudam os usuários a entender melhor o comportamento dos dispos
 
 ## Documentação 📜
 
-- Documentação completa do sistema: <a href="https://github.com/user-attachments/files/17181754/Documentacao.LocalTracker.-.Tech.Horizon.pdf">Clique aqui</a>
+- Documentação completa do sistema: <a href="https://github.com/user-attachments/files/17685404/LocalTrackerDoc.pdf">Clique aqui</a>
 
 <span id="tecnologias">
 
