@@ -177,7 +177,7 @@ Essas melhorias proporcionam aos usuários um monitoramento mais preciso e ágil
 
 <summary>Sprint 3</summary>
 
-![image](https://github.com/user-attachments/assets/0b8da1eb-2ffe-41ea-84b5-3c7c2dffb712)
+![image](https://github.com/user-attachments/assets/677faa27-5b2d-409b-8ee8-c931a40a0a92)
 
 </details>
 
