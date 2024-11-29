@@ -157,6 +157,15 @@ Essas melhorias proporcionam aos usuários um monitoramento mais preciso e ágil
 
 <summary>Sprint 4</summary>
 
+Nesta quarta Sprint, focamos em melhorar a segurança, gestão e controle de acesso ao sistema, bem como a organização e monitoramento dos dispositivos.
+
+- Implementamos o envio de alertas para usuários sempre que um dispositivo se deslocar para fora de uma área demarcada, permitindo que ações corretivas sejam tomadas rapidamente.
+
+- Adicionamos funcionalidades para administração do sistema, possibilitando a modificação, adição e remoção de dispositivos e usuários, garantindo a manutenção de um ambiente organizado e atualizado.
+
+- Criamos a funcionalidade de registro de novos usuários, permitindo que administradores concedam acesso controlado às funcionalidades do sistema.
+
+- Incluímos a autenticação de usuários, assegurando que apenas pessoas autorizadas possam acessar o sistema e suas funcionalidades.
 
 </details>
 
